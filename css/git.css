@@ -1,0 +1,46 @@
+/* .body{
+  background:url(img/mohave.png)
+} */
+
+img{
+  display: block;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img1{
+  height: 600px;
+  width: 1000px;
+  position: absolute;
+}
+
+.img2{
+  width: 500px;
+  height: 335px;
+  margin-top: 25px;
+  margin-left: 50px;
+}
+
+.texts{
+  font-family: Helvetica;
+  font-size: .5em;
+  position: absolute;
+  margin-top: 85px;
+  width: 150px;
+  margin-left: 270px;
+  color: black;
+}
+
+#text1, #text2, #text3, #text4, #text5, #text6, #text7{
+  background-color: lightgrey;
+  padding: 4px;
+  padding-left: 5px;
+  border-radius: 7px;
+  margin: 0px;
+  margin-bottom: 3px;
+}
+
+#text2, #text3, #text4, #text5, #text6, #text7{
+  display: none;
+}

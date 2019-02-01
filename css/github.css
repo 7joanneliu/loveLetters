@@ -1,0 +1,45 @@
+html{
+  background-color: #f2f2f2;
+  font-family: Helvetica;
+}
+
+img{
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+}
+
+#door{
+  width: 205px;
+  margin-left: 250px;
+  margin-top: 20px;
+}
+
+.locker{
+  display: block;
+}
+
+#paper{
+  margin-left: 325px;
+  margin-top: 75px;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  background-color: white;
+  text-align: center;
+  text-decoration: none;
+  color: orange;
+  display: none;
+}
+
+#note{
+  position: absolute;
+  background-color: white;
+  width: 300px;
+  padding: 20px;
+  margin-top: 100px;
+  margin-left: 180px;
+  display: none;
+}
